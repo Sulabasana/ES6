@@ -1,2 +1,3 @@
-# EcmaScript6
-EcmaScript6 learning. How to write javaScript using EcmaScript6 and which file you need to use. 
+## ES6 Tutorial
+
+Start the tutorial [here](http://ccoenraets.github.io/es6-tutorial).
